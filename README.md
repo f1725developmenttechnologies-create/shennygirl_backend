@@ -18,4 +18,28 @@ academia de belleza
 ---
 
 ## 📁 Estructura del Proyecto
-
+shennygirl-backend/
+├── .github/workflows/
+│   └── deploy-hf.yml
+├── app/
+│   ├── main.py
+│   ├── routers/
+│   │   ├── kshield.py
+│   │   ├── kbeauty.py
+│   │   ├── knails.py
+│   │   ├── avatar3d.py
+│   │   └── business.py   # (si no lo tienes, lo completo)
+│   ├── models/
+│   │   ├── hair_model.py
+│   │   ├── face_model.py
+│   │   ├── hand_model.py
+│   │   └── avatar_model.py
+│   ├── utils/
+│   │   ├── watermark.py
+│   │   ├── supabase_client.py
+│   │   ├── image_ops.py
+│   │   └── face_utils.py
+│   └── __init__.py
+├── requirements.txt
+├── Dockerfile
+└── .env.example
