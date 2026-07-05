@@ -1,0 +1,15 @@
+Ruta Contenido
+app/main.py [Código que ya le di]
+app/routers/business.py [Código que ya le di]
+app/routers/kshield.py [Código que ya le di]
+app/routers/kbeauty.py [Código que ya le di]
+app/routers/knails.py [Código que ya le di]
+app/routers/avatar3d.py [Código que ya le di]
+app/routers/__init__.py (vacío)
+app/utils/supabase_client.py [Código que ya le di]
+app/utils/__init__.py (vacío)
+app/__init__.py (vacío)
+requirements.txt [Código que ya le di]
+Dockerfile [Código que ya le di]
+.env.example [Código que ya le di]
+database/schema.sql [Código que ya le di]
